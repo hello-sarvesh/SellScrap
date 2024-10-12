@@ -26,7 +26,7 @@ html {
 
 .hero-image {
     height: 100%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/img/bhangarwala-near-me.webp");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./img/bhangarwala-near-me.webp");
 
     background-position: center;
     background-repeat: no-repeat;
@@ -170,7 +170,7 @@ div[class*="-prices-list"]>div {
 .graphic-paper.id-1 {
     width: 200px;
     height: 200px;
-    background-image: url("/img/news-paper-clipart-01.jpg");
+    background-image: url("./img/news-paper-clipart-01.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -178,7 +178,7 @@ div[class*="-prices-list"]>div {
 .graphic-plastic.id-1 {
     width: 200px;
     height: 200px;
-    background-image: url("/img/plastic-clipart-01.jpg");
+    background-image: url("./img/plastic-clipart-01.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -186,7 +186,7 @@ div[class*="-prices-list"]>div {
 .graphic-metal.id-1 {
     width: 200px;
     height: 200px;
-    background-image: url("/img/metal-clipart-01.jpg");
+    background-image: url("./img/metal-clipart-01.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -194,7 +194,7 @@ div[class*="-prices-list"]>div {
 .graphic-ewaste.id-1 {
     width: 200px;
     height: 200px;
-    background-image: url("/img/ewaste-clipart-01.jpeg");
+    background-image: url("./img/ewaste-clipart-01.jpeg");
     background-size: cover;
     background-position: center;
 }
@@ -202,7 +202,7 @@ div[class*="-prices-list"]>div {
 .graphic-others.id-1 {
     width: 200px;
     height: 200px;
-    background-image: url("/img/others-clipart-01.png");
+    background-image: url("./img/others-clipart-01.png");
     background-size: cover;
     background-position: center;
 }
